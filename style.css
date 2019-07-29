@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+body {
+  text-align: center;
+}
+
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #DCDCDC;
+}
+
+figcaption {
+  font-size: 12px;
+}
+
+p {
+  padding-left: 550px;
+  padding-right: 550px;
+  text-align: center;
+}
+
+div {
+  display: block;
+  float: left;
+  width: 25%;
+  background-color: #FF3248
+}
+
+
