@@ -20,8 +20,7 @@ figcaption {
 }
 
 #future-property p {
-  padding-left: 1000px;
-  padding-right: 1000px;
+  hard-width: 800px;
   text-align: center;
 }
 
