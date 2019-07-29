@@ -21,6 +21,7 @@ figcaption {
 
 #future-property p {
   width: 800px;
+  color: red;
   text-align: center;
 }
 
