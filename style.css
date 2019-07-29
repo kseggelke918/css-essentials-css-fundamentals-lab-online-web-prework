@@ -19,7 +19,7 @@ figcaption {
   font-size: 12px;
 }
 
-p#future-property {
+#featured-property p {
   width: 800px;
   color: red;
   text-align: center;
