@@ -19,10 +19,10 @@ figcaption {
   font-size: 12px;
 }
 
-p {
-  padding-left: 550px;
-  padding-right: 550px;
+#featured-property p {
+  width: 800px;
   text-align: center;
+  padding-left: 550px;
 }
 
 div {
